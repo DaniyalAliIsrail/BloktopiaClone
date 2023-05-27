@@ -1,4 +1,4 @@
-@media screen and (max-width: 572px){
+/* @media screen and (max-width: 572px){
         .center-custom{
                 margin: auto 0;
         }
@@ -62,7 +62,7 @@
                         border: 2px solid #72e5d7;
                         border-radius: 15px;
                         /* padding: 5px 2px 5px 2px; */
-                        width: 100px;
+                        /* width: 100px;
                         text-align: center;
                         font-size: 10px;
                         transition: all 0.3s ease;
@@ -79,7 +79,7 @@
                 height: 270px;
         }
         /* human-video-section */
-        .human-video>video{
+        /* .human-video>video{
                 width: 90%;
                 height: 500px;
                 display: flex;
@@ -112,7 +112,7 @@
                 color: white;
                 padding-bottom: 5px;
         }
-                .leptop-flex h3{
+                /* .leptop-flex h3{
                         width: 100%;
                         line-height: 60px;
                         font-weight: 300;
@@ -128,8 +128,9 @@
                 .leptop-img-p{
                         position: relative;
                         
-                }
-                .leptop-img
+                } */
+                 */
+                 */
 
         
         /* .custom-font h2{
@@ -142,4 +143,4 @@
                 font-size: 40px;
                 color: #eb57f7;
         } */
-}
+} */
